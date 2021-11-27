@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "Optimuspride@gmail.com",
+      "password": "12345678",
+      "role": "customer"
+    },
+    {
+      "id": 2,
+      "email": "admin@gmail.com",
+      "password": "1234567",
+      "role": "admin"
+    },
+    {
+      "email": "",
+      "password": "",
+      "namalengkap": "",
+      "role": "customer",
+      "id": 3
+    },
+    {
+      "email": "gh",
+      "password": "sghsh",
+      "namalengkap": "hstgfhs",
+      "role": "customer",
+      "id": 4
+    }
+  ]
+}
