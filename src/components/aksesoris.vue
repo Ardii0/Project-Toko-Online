@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div style="margin-top: 9rem">
     <div class="container">
       <div class="row">
         <div class="col">
