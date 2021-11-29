@@ -1,5 +1,5 @@
 <template>
-  <div class="awal">
+  <div style="margin-top: 9rem" class="awal">
     <div class="container fontdaftar">
       <div class="shadow-luar">
         <div class="row">
