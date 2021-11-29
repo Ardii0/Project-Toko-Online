@@ -1,5 +1,5 @@
 <template>
-  <div class="allAdmin d-flex justify-content-center">
+  <div style="margin-top: 9rem" class="allAdmin d-flex justify-content-center">
     <div class="judul-admin"><h2>Selamat Datang Admin Jualjual</h2></div>
     <table style="border: 1px solid black; max-width: 20cm; width: 20cm">
       <tr style="border: 1px solid black; background-color: #198754">
