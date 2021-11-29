@@ -1,5 +1,5 @@
 <template>
-  <div class="awal">
+  <div style="margin-top: 9rem" class="awal">
     <div class="container fontMasuk" style="padding: 27px 64px 27px 64px">
       <div class="shadow-luar">
         <div class="row">
