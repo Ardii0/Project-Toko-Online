@@ -17,6 +17,7 @@
             <div class="box-shadow">
               <input
               v-model="namalengkap"
+              required
                 style="border: none"
                 class="inputdaftarEmail"
                 type="text"
@@ -24,6 +25,7 @@
               /><br /><br />
               <input
               v-model="email"
+              required
                 style="border: none"
                 class="inputdaftarEmail"
                 type="email"
@@ -32,6 +34,7 @@
               <input
               v-model="password"
                 style="border: none"
+                required
                 class="inputdaftarSandi"
                 type="password"
                 placeholder="Kata sandi"
