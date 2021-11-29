@@ -69,15 +69,12 @@ export default {
   position: absolute;
   margin-top: 6rem;
 }
-
 .btn {
   transition: 0.5s;
 }
-
 .button-admin:hover .btn {
   transform: rotate(7deg) scale(1.2);
 }
-
 .judul-admin {
   position: absolute;
   margin-top: -3rem;
