@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div style="margin-top: 9rem">
     <div class="awal d-flex justify-content-center"></div>
 
     <div style="margin-top: 15px" class="all d-flex justify-content-center">
